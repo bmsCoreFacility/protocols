@@ -10,3 +10,4 @@ If you have a question or issue with any of the protocols found here, please cre
 
 - [General](https://github.com/bmsCoreFacility/protocols/blob/main/general)
 - [Related to proteomics](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics)
+    - [SP3 protein clean-up](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics)
