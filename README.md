@@ -8,5 +8,5 @@ If you have a question or issue with any of the protocols found here, please cre
 
 ## Quick links <!-- omit in toc -->
 
-- [General]()
+- [General](https://github.com/bmsCoreFacility/protocols/blob/main/general)
 - [Related to proteomics](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics)
