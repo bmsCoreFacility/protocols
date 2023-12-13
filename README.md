@@ -9,6 +9,7 @@ If you have a question or issue with any of the protocols found here, please cre
 ## Quick links <!-- omit in toc -->
 
 - [General](https://github.com/bmsCoreFacility/protocols/blob/main/general)
+    - [SILAC labeling of cultured cells](https://github.com/bmsCoreFacility/protocols/blob/main/general/silacLabelingOfCulturedCells.md)
 - [Related to proteomics](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics)
     - [In-gel protein processing](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/inGelProteinProcessing.md)
     - [SP3 protein clean-up](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/sp3ProteinCleanup.md)
