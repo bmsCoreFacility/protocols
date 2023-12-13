@@ -15,3 +15,5 @@ If you have a question or issue with any of the protocols found here, please cre
     - [TMT labeling of peptides](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/tmtLabelingOfPeptides.md)
     - [Whole proteome profiling](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/wholeProteomeProfiling.md)
     - [Dual whole transcriptome/proteome analysis](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/wholeTranscriptomeProteomeAnalysis.md)
+- [Mass spectrometry acquisition methods](https://github.com/bmsCoreFacility/protocols/blob/main/acquisitionMethods)
+- [Example text for manuscripts](https://github.com/bmsCoreFacility/protocols/blob/main/manuscriptMethods)
