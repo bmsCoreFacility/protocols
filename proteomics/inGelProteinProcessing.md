@@ -1,4 +1,4 @@
-# In gel digestion for protein identification <!-- omit in toc -->
+# In gel protein processing <!-- omit in toc -->
 
 This document describes a protocol for SDS-PAGE separation of a protein sample, extraction, digestion, and mass spectrometry analysis for identification. Although the protocol mainly describes extraction of a single protein band, it could also be used for extraction and preparation of multiple bands from a single, or multiple, lanes. This protocol starts after the gel has been run and in theory should be compatible with virtually any SDS-PAGE gel.
 
