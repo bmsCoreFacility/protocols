@@ -3,6 +3,8 @@ This workspace contains protocols, mass spectrometer acquisition methods, and ex
 
 If you have a question or issue with any of the protocols found here, please create an [issue](https://github.com/bmsCoreFacility/protocols/issues) so we can address it. We also welcome suggestions for clarity or improvements! If you have any questions or unsure about anything, please contact us!
 
+While the markdown versions are great for viewing on GitHub, they are less visually appealing in a print out. To get around this, we have included pdf versions of each protocol that you can download and print out. If you have any issues with this process, please let us know, we will do our best to support you.
+
 **FOR ALL PROTOCOLS** - where appropriate, refer to the health and safety guidelines of your own institute as well as the MSDS documents for the described chemicals before use. Some of the chemicals and objects used are dangerous and should be handled with caution.
 
 ## Quick links <!-- omit in toc -->
