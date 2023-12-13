@@ -17,5 +17,6 @@ While the markdown versions are great for viewing on GitHub, they are less visua
     - [TMT labeling of peptides](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/tmtLabelingOfPeptides.md)
     - [Whole proteome profiling](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/wholeProteomeProfiling.md)
     - [Dual whole transcriptome/proteome analysis](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/wholeTranscriptomeProteomeAnalysis.md)
+    - [SPE peptide clean-up](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/spePeptideCleanup.md)
 - [Mass spectrometry acquisition methods](https://github.com/bmsCoreFacility/protocols/blob/main/acquisitionMethods)
 - [Example text for manuscripts](https://github.com/bmsCoreFacility/protocols/blob/main/manuscriptMethods)

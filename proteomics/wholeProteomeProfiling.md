@@ -6,16 +6,16 @@ This document describes an end-to-end protocol for quantitative whole-proteome a
 
 ## Quick links <!-- omit in toc -->
 
-- [1. RNA and Protein Sample Preparation](#1-rna-and-protein-sample-preparation)
+- [1. Protein Sample Preparation](#1-protein-sample-preparation)
   - [1.1 Reagents and materials](#11-reagents-and-materials)
   - [1.2 Solution recipes](#12-solution-recipes)
   - [1.3 Protocol](#13-protocol)
 
 <hr style="height:6pt; visibility:hidden;" />
 
-<span id="1-rna-and-protein-sample-preparation"></span>
+<span id="1-protein-sample-preparation"></span>
 
-## 1. RNA and Protein Sample Preparation
+## 1. Protein Sample Preparation
 
 For all the solutions described below and throughout this protocol in general, you should do your best to use sterile glassware and reagents. As the goal here is to measure proteins, make an effort to minimize potential keratin contamination (e.g. wear a lab coat and don't touch your tubes with un-gloved hands).
 
