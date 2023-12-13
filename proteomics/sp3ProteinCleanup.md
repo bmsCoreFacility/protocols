@@ -52,7 +52,7 @@ The protocol steps below assume that you have 100ug of prepared protein lysate t
 2. To a fresh 2mL tube for each sample, add 10uL of SP3 bead stock and 90uL of your prepared lysate and mix by gentle shaking. The remaining lysate can be stored at -80C for validation assays (e.g. Western blotting), or as a backup sample if your protein digestion fails.
 3. Add 400uL of acetone to each tube of protein lysate and gently shake the tube to mix. Incubate at +24C for 5-minutes.
 4. During the above incubation, prepare your digestion mixture:
-    1. Reconstitute urea powder to 1mL with ~800uL of 100mM TrisCl pH 7.5. Vortex mix.
+    1. Reconstitute urea powder with an appropriate amount of 100mM TrisCl pH 7.5. Vortex mix. NOTE - urea will increase the volume of the solution generally by the amount of powder you have weighed out. For example, to 240mg of urea, I would add 760uL of 100mM TrisCl pH 7.5 to make 1mL of solution.
     2. Reconstitute a 20ug trypsin/rLysC vial using 100uL of the provided reconstitution solution.
     3. Transfer 5uL of trypsin per sample to a fresh tube, and add 100uL of prepared urea per sample. Vortex mix and keep on ice.
 5. Centrifuge the protein lysate tubes at 5,000g for 5-minutes at room temperature.

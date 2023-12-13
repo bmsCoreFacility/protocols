@@ -12,4 +12,5 @@ If you have a question or issue with any of the protocols found here, please cre
 - [Related to proteomics](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics)
     - [SP3 protein clean-up](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/sp3ProteinCleanup.md)
     - [TMT labeling of peptides](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/tmtLabelingOfPeptides.md)
+    - [Whole proteome profiling](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/wholeProteomeProfiling.md)
     - [Dual whole transcriptome/proteome analysis](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/wholeTranscriptomeProteomeAnalysis.md)
