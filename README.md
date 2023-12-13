@@ -7,11 +7,13 @@ While the markdown versions are great for viewing on GitHub, they are less visua
 
 **FOR ALL PROTOCOLS** - where appropriate, refer to the health and safety guidelines of your own institute as well as the MSDS documents for the described chemicals before use. Some of the chemicals and objects used are dangerous and should be handled with caution.
 
+This page is currently under construction. We are adding new information almost daily, so follow us to make sure you are up to date!
+
 ## Quick links <!-- omit in toc -->
 
-- [General](https://github.com/bmsCoreFacility/protocols/blob/main/general)
+- [general](https://github.com/bmsCoreFacility/protocols/blob/main/general)
     - [SILAC labeling of cultured cells](https://github.com/bmsCoreFacility/protocols/blob/main/general/silacLabelingOfCulturedCells.md)
-- [Related to proteomics](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics)
+- [proteomics](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics)
     - [In-gel protein processing](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/inGelProteinProcessing.md)
     - [Immunoprecipitation sample processing](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/immunoprecipitationSamplePreparation.md)
     - [SP3 protein clean-up](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/sp3ProteinCleanup.md)
@@ -19,5 +21,7 @@ While the markdown versions are great for viewing on GitHub, they are less visua
     - [Whole proteome profiling](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/wholeProteomeProfiling.md)
     - [Dual whole transcriptome/proteome analysis](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/wholeTranscriptomeProteomeAnalysis.md)
     - [SPE peptide clean-up](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/spePeptideCleanup.md)
-- [Mass spectrometry acquisition methods](https://github.com/bmsCoreFacility/protocols/blob/main/acquisitionMethods)
-- [Example text for manuscripts](https://github.com/bmsCoreFacility/protocols/blob/main/manuscriptMethods)
+- [metabolomics](https://github.com/bmsCoreFacility/protocols/blob/main/metabolomics)
+- [lipidomics](https://github.com/bmsCoreFacility/protocols/blob/main/lipidomics)
+- [mass spectrometry acquisition methods](https://github.com/bmsCoreFacility/protocols/blob/main/acquisitionMethods)
+- [example text for manuscripts](https://github.com/bmsCoreFacility/protocols/blob/main/manuscriptMethods)
