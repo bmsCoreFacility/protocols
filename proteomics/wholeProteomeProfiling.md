@@ -1,6 +1,6 @@
-# Dual whole transcriptome and proteome analysis <!-- omit in toc -->
+# Whole proteome analysis <!-- omit in toc -->
 
-This document describes an end-to-end protocol for quantitative whole-proteome analysis by mass spectrometry that also harvests matched material that can be used for whole transcriptome analysis by RNA sequencing. This protocol is also appropriate for harvesting material for other assays, such as qPCR or Western blotting, and does not require any specialized equipment (e.g. sonicator). This protocol can be used as a general guideline as there are many different ways of doing many of these individual steps and still achieving success. The topics covered include how to perform harvest and lysis of cell line material, clean-up of proteins, tryptic digestion, and final peptide clean-up. The protocol is designed to work with cell line material, but may be appropriate for tissues or other sources.
+This document describes an end-to-end protocol for quantitative whole-proteome analysis by mass spectrometry. This protocol is also appropriate for harvesting material for other assays, such as Western blotting, and does not require any specialized equipment (e.g. sonicator). This protocol can be used as a general guideline as there are many different ways of doing many of these individual steps and still achieving success. The topics covered include how to perform harvest and lysis of cell line material, clean-up of proteins, tryptic digestion, and final peptide clean-up. The protocol is designed to work with cell line material, but may be appropriate for tissues or other sources.
 
 <hr style="height:6pt; visibility:hidden;" />
 
@@ -17,7 +17,7 @@ This document describes an end-to-end protocol for quantitative whole-proteome a
 
 ## 1. RNA and Protein Sample Preparation
 
-For all the solutions described below and throughout this protocol in general, you should do your best to use sterile glassware and reagents. As the goal here is to measure RNA and proteins, make an effort to minimize potential keratin and RNase contamination (e.g. wear a lab coat and don't touch your tubes with un-gloved hands). I like to use the Zymo RNA kit to purify total RNA, but you can substitute virtually any RNA isolation kit you would like. 
+For all the solutions described below and throughout this protocol in general, you should do your best to use sterile glassware and reagents. As the goal here is to measure proteins, make an effort to minimize potential keratin contamination (e.g. wear a lab coat and don't touch your tubes with un-gloved hands).
 
 <span id="11-reagents-and-materials"></span>
 
@@ -39,7 +39,6 @@ For all the solutions described below and throughout this protocol in general, y
 - RNase A, 10mg/mL (Thermo Scientific, CAT#EN0531)
 - Urea (Sigma, CAT#U5128)
 - Clean water (Thermo Scientific, CAT#10977023)
-- Direct-Zol RNA microprep kit (Zymo Research, CAT#R2061)
 - Trypsin/rLysC mix (Promega, CAT#V5071)
 - Thermomixer with 2mL tube block (Eppendorf)
 - Thermoblock set to >95C (multiple vendors)
@@ -100,20 +99,21 @@ For all the solutions described below and throughout this protocol in general, y
 
 This protocol assumes you have your cells growing in conventional 6-well dishes. If you are using a 10cm or bigger dish, I suggest harvesting your cells using trypsin and freezing the pellets and proceeding with the processing as below (skipping the cell scraping steps). No matter what vessel you are using, I suggest plating your cells 24h before your planned harvest time to achieve a confluence of 70-80% at harvest time. This will ensure a maximum number of cells are actively growing and producing protein. If your cells are slow to attach or are typically slow to start growing, you can do this 48h before. The end goal is to have an actively growing cell population that is not over-confluent.
 
-Prior to starting, prepare sufficient Lysis buffer A and B for all of the samples to be processed. Make sure you have a Thermoblock heated to +95C or greater. Weigh out the CAA and Urea powders into tubes, but don't reconstitute until just before you will use them. Prepare 2 tubes for each sample to be processed (one for RNA - 1.5mL tube, one for protein - 2mL tube). To the RNA tubes, add 350uL of RNA lysis buffer to each (the RNA lysis buffer should be included with whatever kit you are using, or use a Trizol solution instead). 
+If you want a more concentrated cell lysate, use 75uL of Lysis Buffer A in the first step and 25uL of Lysis buffer B later on. Scale as is appropriate based on your cell culture dish size or harvested pellet size.
+
+Prior to starting, prepare sufficient Lysis buffer A and B for all of the samples to be processed. Make sure you have a Thermoblock heated to +95C or greater. Weigh out the CAA and Urea powders into tubes, but don't reconstitute until just before you will use them. Prepare 1 tube for each sample to be processed (protein - 2mL tube).
 
 1. Using a pipette, remove the culture medium from the growing cells on the 6-well plate.
 2. Add 2mL of DPBS to each well and swirl the plate to rinse. Pipette up and discard the DPBS (or aspirate).
-3. Add 200uL of Lysis buffer A to each well and rock the plate back and forth to ensure the cells are covered.
-4. Working one well at a time, use a cell scraper to dislodge the cells and a micropipette to transfer 200uL of lysate to the protein tube on ice. Repeat for each sample.
-5. After you have harvested all of the samples in this manner, transfer 50uL of each lysate to the corresponding RNA tube containing RNA lysis buffer and vortex mix. These cells can be frozen at -80C for RNA extraction at a later time. This harvested RNA can be used for virtually any RNA assay (e.g. qPCR, RNA-seq).
-6. To the remaining 150uL of lysate in the protein tube, add 10uL of nuclease mix and pipette mix. Incubate for 10-minutes at +24C without shaking.
+3. Add 150uL of Lysis buffer A to each well and rock the plate back and forth to ensure the cells are covered.
+4. Working one well at a time, use a cell scraper to dislodge the cells and a micropipette to transfer 150uL of lysate to the protein tube on ice. Repeat for each sample. 
+6. To the 150uL of lysate in the protein tube, add 10uL of nuclease mix and pipette mix. Incubate for 10-minutes at +24C without shaking. OPTIONAL - you can add the nuclease mix directly to the lysis buffer prior to adding it to the cells on the dish and do this incubation while you are scaping the cells off of the plate, in which case, you would skip this step.
 7. After incubation, add 50uL of Lysis buffer B to the protein lysate and pipette mix. 
 8. Place the protein lysate in the pre-heated Thermoblock at +95C and incubate for 5-minutes.
-9. Remove the protein lysate from the Thermoblock and let sit at +24C for 10-minutes. During this incubation, reconstitute your CAA powder in 1mL of 100mM TrisCl pH 7.5. It may be difficult to get this entirely into solution, but just get as much as you can.
+9. Remove the protein lysate from the Thermoblock and let sit at +24C for 10-minutes. During this incubation, reconstitute your CAA powder in an appropriate amount of 100mM TrisCl pH 7.5. It may be difficult to get this entirely into solution, but just get as much as you can.
 10. Quick-spin the tubes at low speed to remove any condensation from the lid (e.g. 250g for 30 seconds). At this point, the protein lysate is compatible with Western blotting. I will usually add 6uL of 6X SDS Loading Buffer to 24uL of my sample, and run 20-30uL on a gel. 
 11. Add 10uL of CAA to the protein lysate and vortex mix. Incubate at +24C for 30-minutes in the dark.
-12. Reconstitute your DTT in 100mM TrisCl pH 7.5, and add 10uL to each tube of protein lysate and vortex mix. This is a good stop point. The samples here can be stored at -80C indefinitely, or directly used for other protocols such as Western blotting, as mentioned above.
+12. Reconstitute your DTT in an appropriate amount of 100mM TrisCl pH 7.5 and add 10uL to each tube of protein lysate and vortex mix. This is a good stop point. The samples here can be stored at -80C indefinitely, or directly used for other protocols such as Western blotting, as mentioned above.
 13. To perform clean-up prior to digestion, prepare the SP3 beads stock (if you don't have an existing stock, otherwise skip to Step 14):
     1. Vortex the two 15mL containers of bead stocks from the manufacturer to re-suspend the material.
     2. Take 500uL of each of the bead stocks and combine in a fresh 2mL tube.
@@ -124,7 +124,7 @@ Prior to starting, prepare sufficient Lysis buffer A and B for all of the sample
 14. To a fresh 2mL tube for each sample, add 10uL of SP3 bead stock and 90uL of your prepared lysate and mix by gentle shaking. The remaining lysate can be stored at -80C for validation assays (e.g. Western blotting), or as a backup sample if your protein digestion fails.
 15. Add 400uL of acetone to each tube of protein lysate and gently shake the tube to mix. Incubate at +24C for 5-minutes.
 16. During the above incubation, prepare your digestion mixture:
-    1. Reconstitute urea powder to 1mL with ~800uL of 100mM TrisCl pH 7.5. Vortex mix.
+    1. Reconstitute urea powder with an appropriate amount of 100mM TrisCl pH 7.5. Vortex mix. NOTE - urea will increase the volume of the solution generally by the amount of powder you have weighed out. For example, to 240mg of urea, I would add 760uL of 100mM TrisCl pH 7.5 to make 1mL of solution.
     2. Reconstitute a 20ug trypsin/rLysC vial using 100uL of the provided reconstitution solution.
     3. Transfer 5uL of trypsin per sample to a fresh tube, and add 100uL of prepared urea per sample. Vortex mix and keep on ice.
 17. Centrifuge the protein lysate tubes at 5,000g for 5-minutes at room temperature.

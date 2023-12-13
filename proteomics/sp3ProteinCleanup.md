@@ -32,9 +32,9 @@ This document describes how to perform SP3 on a prepared protein mixture that co
 
 ## Solution recipes
 
-- 100mM TrisCl pH 7.5 - 1mL of 1M stock, 9mL of water
-- 80% (v/v) ethanol (prepare fresh)
-- 4M urea (240mg in 1mL of 100mM TrisCl pH 7.5, prepare just before use)
+- 100mM TrisCl pH 7.5 - 10uL of 1M stock for every 90uL of water (need 400uL per sample)
+- 80% (v/v) ethanol (prepare fresh) (need 2mL per sample)
+- 4M urea (24mg for every 100uL of 100mM TrisCl pH 7.5, prepare just before use) (need 100uL per sample)
 
 <span id="protocol"></span>
 
