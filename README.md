@@ -13,6 +13,7 @@ While the markdown versions are great for viewing on GitHub, they are less visua
     - [SILAC labeling of cultured cells](https://github.com/bmsCoreFacility/protocols/blob/main/general/silacLabelingOfCulturedCells.md)
 - [Related to proteomics](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics)
     - [In-gel protein processing](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/inGelProteinProcessing.md)
+    - [Immunoprecipitation sample processing](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/immunoprecipitationSamplePreparation.md)
     - [SP3 protein clean-up](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/sp3ProteinCleanup.md)
     - [TMT labeling of peptides](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/tmtLabelingOfPeptides.md)
     - [Whole proteome profiling](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/wholeProteomeProfiling.md)
