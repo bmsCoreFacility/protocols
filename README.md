@@ -27,3 +27,4 @@ This page is currently under construction. We are adding new information almost 
 - [lipidomics](https://github.com/bmsCoreFacility/protocols/blob/main/lipidomics)
 - [mass spectrometry acquisition methods](https://github.com/bmsCoreFacility/protocols/blob/main/acquisitionMethods)
 - [example text for manuscripts](https://github.com/bmsCoreFacility/protocols/blob/main/manuscriptMethods)
+- [technical workflows](https://github.com/bmsCoreFacility/protocols/blob/main/technical)
