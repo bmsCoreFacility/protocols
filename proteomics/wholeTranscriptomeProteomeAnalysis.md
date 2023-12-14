@@ -53,8 +53,6 @@ For all the solutions described below and throughout this protocol in general, y
 - Water, HPLC grade (CAT#51140, Thermo Scientific)
 - Trifluoroacetic acid, HPLC grade (CAT#85183, Thermo Scientific)
 - Formic acid, HPLC grade (CAT#85178, Thermo Scientific)
-- 1.5mL snap-lock tubes (CAT#05-402-25, Thermo Scientific)
-- Benchtop centrifuge with plate-holder rotor (multiple vendors)
 - AxyMats Sealing mat for 96-well microplates (VWR, CAT#14-222-024)
 - 96-well PCR microplates (VWR, CAT#14-222-326)
 

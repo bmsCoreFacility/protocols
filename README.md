@@ -1,4 +1,5 @@
 # Protocols
+
 This workspace contains protocols, mass spectrometer acquisition methods, and example method text for manuscripts, from the BMS Core Facility at Dalhousie University. The protocols found here are tested in our facility and are working as written. We often update the protocols to improve certain aspects or based on the availability of reagents, so check back often to make sure you are using the most recent version.
 
 If you have a question or issue with any of the protocols found here, please create an [issue](https://github.com/bmsCoreFacility/protocols/issues) so we can address it. We also welcome suggestions for clarity or improvements! If you have any questions or unsure about anything, please contact us!
@@ -20,6 +21,7 @@ This page is currently under construction. We are adding new information almost 
     - [TMT labeling of peptides](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/tmtLabelingOfPeptides.md)
     - [Whole proteome profiling](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/wholeProteomeProfiling.md)
     - [Dual whole transcriptome/proteome analysis](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/wholeTranscriptomeProteomeAnalysis.md)
+    - [Whole proteome profiling from FFPE tissues](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/ffpeTissueWholeProteomeAnalysis.md)
     - [SPE peptide clean-up](https://github.com/bmsCoreFacility/protocols/blob/main/proteomics/spePeptideCleanup.md)
 - [metabolomics](https://github.com/bmsCoreFacility/protocols/blob/main/metabolomics)
 - [lipidomics](https://github.com/bmsCoreFacility/protocols/blob/main/lipidomics)

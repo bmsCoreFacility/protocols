@@ -57,11 +57,11 @@ This document describes a protocol for SDS-PAGE separation of a protein sample, 
   - Methanol - 22.5mL
   - Water - 22.5mL
   - Acetic acid - 5mL
-- Coomassie concentrated solution
+- Coomassie concentrated solution (only need this if you are staining your gel)
   - Methanol - 30mL
   - Acetic acid - 6mL
   - Brilliant blue - 1.2g
-- Gel staining solution (recipe for 50mL)
+- Gel staining solution (recipe for 50mL) (only need this if you are staining your gel)
   - Methanol - 250mL
   - Water - 200mL
   - Acetic acid - 50mL
