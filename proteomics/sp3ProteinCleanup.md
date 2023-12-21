@@ -40,7 +40,7 @@ This document describes how to perform SP3 on a prepared protein mixture that co
 
 ## Protocol
 
-The protocol steps below assume that you have 100ug of prepared protein lysate that has been DNase treated and is in a volume of ~100uL. You may need to scale the reactions below based on your actual starting conditions. 
+The protocol steps below assume that you have 20ug of prepared protein lysate that has been DNase treated and is in a volume of ~100uL. You may need to scale the reactions below based on your actual starting conditions. 
 
 1. To perform clean-up prior to digestion, prepare the SP3 beads stock (if you don't have an existing stock, otherwise skip to Step 2):
     1. Vortex the two 15mL containers of bead stocks from the manufacturer to re-suspend the material.
@@ -54,7 +54,7 @@ The protocol steps below assume that you have 100ug of prepared protein lysate t
 4. During the above incubation, prepare your digestion mixture:
     1. Reconstitute urea powder with an appropriate amount of 100mM TrisCl pH 7.5. Vortex mix. NOTE - urea will increase the volume of the solution generally by the amount of powder you have weighed out. For example, to 240mg of urea, I would add 760uL of 100mM TrisCl pH 7.5 to make 1mL of solution.
     2. Reconstitute a 20ug trypsin/rLysC vial using 100uL of the provided reconstitution solution.
-    3. Transfer 5uL of trypsin per sample to a fresh tube, and add 100uL of prepared urea per sample. Vortex mix and keep on ice.
+    3. Transfer 2.5uL of trypsin per sample to a fresh tube, and add 100uL of prepared urea per sample. Vortex mix and keep on ice.
 5. Centrifuge the protein lysate tubes at 5,000g for 5-minutes at room temperature.
 6. Discard the supernatant from each tube and add 800uL of 80% ethanol. Pipette mix to reconstitute the beads.
 7. Centrifuge the tubes at 5,000g for 5-minutes and discard the supernatant. Using a P200 or P20 micropipette, make sure you have removed as much leftover liquid from the rinse as possible from the tubes.
