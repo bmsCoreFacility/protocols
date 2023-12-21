@@ -1,6 +1,6 @@
 # Whole proteome analysis from FFPE tissues <!-- omit in toc -->
 
-This document describes an end-to-end protocol for quantitative whole-proteome analysis by mass spectrometry of FFPE tissues. This protocol is also appropriate for harvesting material for other assays, such as Western blotting. This protocol can be used as a general guideline as there are many different ways of doing many of these individual steps and still achieving success. The topics covered include how to perform lysis of tissue material, clean-up of proteins, tryptic digestion, and final peptide clean-up. The protocol is designed to work with FFPE tissues, but may be appropriate for other tissue types.
+This document describes an end-to-end protocol for quantitative whole-proteome analysis by mass spectrometry of FFPE tissues. This protocol is also appropriate for harvesting material for other assays, such as Western blotting. This protocol can be used as a general guideline as there are many different ways of doing many of these individual steps and still achieving success. The topics covered include how to perform lysis of tissue material, clean-up of proteins, tryptic digestion, and final peptide clean-up. The protocol is designed to work with FFPE tissues, but may be appropriate for other tissue types...
 
 <hr style="height:6pt; visibility:hidden;" />
 
