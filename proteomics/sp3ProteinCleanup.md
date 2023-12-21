@@ -61,7 +61,7 @@ The protocol steps below assume that you have 100ug of prepared protein lysate t
 8. Add 100uL of the prepared trypsin/urea mix to each tube. Do not attempt to mix, vortex, or pipette.
 9. Transfer the tubes to a shaking Thermomixer set at +30C and 1,000rpm, and digest for 2-4 hours.
 10. Add 300uL of 100mM TrisCl pH 7.5 to each tube and place back in the Thermomixer and incubate overnight at +30C and 1,000rpm mixing.
-11. The next day, spin the tubes at 12,000g for 2-minutes and then place on a magnetic rack.
+11. The next day, spin the tubes at 12,000g for 2-minutes and then place on a magnetic rack and recover the supernatant to a fresh tube. This recovered peptide solution can be purified by SPE for MS analysis, or stored at -80C indefinitely.
 
 <hr style="height:6pt; visibility:hidden;" />
 
