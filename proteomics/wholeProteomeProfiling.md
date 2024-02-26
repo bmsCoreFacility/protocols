@@ -68,7 +68,7 @@ For all the solutions described below and throughout this protocol in general, y
 - 0.1M of dithiothreitol (DTT) - 1.5mg for every 100uL of 100mM TrisCl pH 7.5, prepare fresh (need 10uL per sample)
 - 0.4M of chloroacetamide (CAA) - 3.7mg for every 100uL of 100mM TrisCl pH 7.5, prepare fresh (need 10uL per sample)
 - 10X cOmplete protease inhibitor stock - 1 tablet in 1mL of water (store at -80C)
-- 2M urea (12mg for every 100uL of 100mM TrisCl pH 7.5, prepare just before use)
+- 2M urea (120mg for every 100uL of 100mM TrisCl pH 7.5, prepare just before use)
 - Lysis buffer A (need 200uL per sample, recipe for 1mL)
   - 20mM TrisCl pH 7.5 (200uL of 100mM stock)
   - 150mM KCl (76uL of 2M stock)
