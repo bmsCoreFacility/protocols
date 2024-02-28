@@ -65,8 +65,6 @@ For all the solutions described below and throughout this protocol in general, y
 - 0.5M MgCl2 - 508mg in 5mL of water (stock, stable at room temperature indefinitely)
 - 10% (v/v) NP-40 - 10uL for every 90uL of water (stock, stable at room temperature indefinitely)
 - 10% (w/v) DOC - 500mg in 5mL of water (stock, stable at room temperature indefinitely)
-- 0.1M of dithiothreitol (DTT) - 1.5mg for every 100uL of 100mM TrisCl pH 7.5, prepare fresh (need 10uL per sample)
-- 0.4M of chloroacetamide (CAA) - 3.7mg for every 100uL of 100mM TrisCl pH 7.5, prepare fresh (need 10uL per sample)
 - 10X cOmplete protease inhibitor stock - 1 tablet in 1mL of water (store at -80C)
 - 2M urea (120mg for every 100uL of 100mM TrisCl pH 7.5, prepare just before use)
 - Lysis buffer A (need 200uL per sample, recipe for 1mL)
