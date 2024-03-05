@@ -17,33 +17,24 @@ This document describes a protocol for SDS-PAGE separation of a protein sample, 
 
 ## Reagents and materials
 
+- 1.5mL or 2.0mL Safe-Lock tubes (Thermo Scientific, CAT#05-402-25 or CAT#05-402-7)
 - Acetonitrile, HPLC grade (Thermo Scientific, CAT#51101)
 - Water, HPLC grade (Thermo Scientific, CAT#51140)
 - Methanol, HPLC grade (Sigma, CAT#34860-4L)
 - Acetic acid (Sigma, CAT#A6283)
 - Brilliant blue (Sigma, CAT#B7920)
-- 1M TrisCl pH 7.5 (Thermo Scientific, CAT#J60636.K2)
-- Dithiothreitol (Bio-Rad, CAT#1610611)
+- Ammonium bicarbonate (Sigma, CAT#A6141-500G)
+- TCEP (Sigma, CAT#580560)
 - Chloroacetamide (Sigma, CAT#C0267)
 - Urea (Sigma, CAT#U5128)
 - Trypsin/rLysC mix (Promega, CAT#V5073)
-- C18 TopTips (CAT#TT3C18, Glygen Corp.)
-- Trifluoroacetic acid, HPLC grade (CAT#85183, Thermo Scientific)
+- Calcium chloride (Sigma, CAT#C4901)
 - Formic acid, HPLC grade (CAT#85178, Thermo Scientific)
-- 1.5mL or 2.0mL Safe-Lock tubes (Thermo Scientific, CAT#05-402-25 or CAT#05-402-7)
 - Thermomixer capable of holding 1.5mL or 2.0mL tubes (Eppendorf)
-- Dimethylsulfoxide (Sigma, CAT#D8418)
 - Benchtop centrifuge (capable of holding 1.5mL or 2mL microfuge tubes)
 - Sonicating water bath (optional)
 - Razor blade (or some sort of clean cutting tool)
 - Small, clean glass plate (this is useful for cutting the gel on)
-- Methanol, HPLC grade (CAT#610090040, Thermo Scientific)
-- Water, HPLC grade (CAT#51140, Thermo Scientific)
-- Trifluoroacetic acid, HPLC grade (CAT#85183, Thermo Scientific)
-- Formic acid, HPLC grade (CAT#85178, Thermo Scientific)
-- Strata-X microelution SPE plates (CAT# 8M-S100-4GA, Phenomenex)
-- AxyMats Sealing mat for 96-well microplates (VWR, CAT#14-222-024)
-- 96-well PCR microplates (VWR, CAT#14-222-326)
 
 <span id="solution-recipes"></span>
 
@@ -65,23 +56,22 @@ This document describes a protocol for SDS-PAGE separation of a protein sample, 
   - Methanol - 250mL
   - Water - 200mL
   - Acetic acid - 50mL
-- Gel piece destaining solution (make 5mL)
-  - 100mM TrisCl pH 7.5 - 500uL of 1M stock solution
-  - 20% (v/v) acetonitrile - 1mL of 100% acetonitrile solution
-  - Water - 3.5mL (to a final volume of 5mL)
-- 100mM TrisCl pH 7.5 - 10uL of 1M stock for every 90uL of water
-- 0.2M of dithiothreitol (DTT) - 15mg in 500uL of 100mM TrisCl pH 7.5, prepare fresh and keep on ice
-- 0.4M of chloroacetamide (CAA) - 18mg in 500uL of 100mM TrisCl pH 7.5, prepare fresh and keep on ice
-- 0.02M of dithiothreitol (DTT) - 100uL of 0.2M stock in 900uL of 100mM TrisCl pH 7.5, prepare fresh and keep on ice
-- 0.04M of chloroacetamide (CAA) - 100uL of 0.4M stock in 900uL of 100mM TrisCl pH 7.5, prepare fresh and keep on ice
-- 4M urea (24mg for every 100uL of 100mM TrisCl pH 7.5, prepare just before use) (need 100uL per sample)
-- 5% formic acid - 500uL of formic acid in 10mL of water
-- Buffer A - methanol
-- Buffer B - 0.1% trifluoroacetic acid (TFA) in water
-- Rinse buffer - 0.1% formic acid, 4% methanol, in water
-- Elution buffer - 0.1% formic acid in 60% methanol
-- Sample Reconstitution Solution - 1% formic acid in water
-
+- Gel piece destaining solution (make 30mL)
+  - 100mM ammonium bicarbonate - 237mg
+  - 20% (v/v) acetonitrile - 6mL of 100% acetonitrile solution
+  - Water - 24mL
+- TC solution (need 40uL per sample, recipe for 1000uL)
+  - 12.4mg TCEP
+  - 18.6mg of CAA
+  - water to 1000uL
+- 100mM ammonium bicarbonate - 7.9mg for every 1mL of water
+- 50mM acetic acid - 28.7uL of 17.4M acetic acid in 9.97mL of water
+- 1M calcium chloride - 1.1g in 10mL of water
+- Digestion solution
+  - 10uL of 1M calcium chloride solution
+  - 990uL of 100mM ammonium bicarbonate
+- 2M urea (12mg for every 100uL of 100mM ammonium bicarbonate, prepare just before use) (need 100uL per sample)
+- 1% formic acid - 100uL of formic acid in 10mL of water
 
 <span id="protocol"></span>
 
@@ -102,36 +92,24 @@ This protocol generally takes 2-3 days. I tried to break it up into major sectio
    4. Destain the gel pieces until no blue remains! This process can be accelerated by changing the gel piece destain solution frequently.
    5. Remove and discard the destain and add 500uL of acetonitrile. Mix well by vortexing.
    6. Once the gel pieces have turned completely white, discard the acetonitrile.
-   7. Add 50uL of DTT from the 0.02M stock to the gel pieces (or enough to cover the gel pieces) and incubate for 30-minutes at room temperature (+21C).
-   8. Remove and discard any excess liquid and add 50uL of CAA from the 0.04M stock to the gel pieces (or the same volume that was added for DTT) and incubate for 30-minutes at room temperature in the dark.
-   9. Discard any excess liquid in the tubes and add 500uL of acetonitrile and mix until the gel pieces are completely white.
-   10. Discard the acetonitrile and add 200uL of 100mM TrisCl pH 7.5 and mix until the gel pieces are clear again.
-   11. Discard the excess TrisCl pH 7.5 solution from the tubes and add 500uL of acetonitrile and mix until the gel pieces are completely white.
-   12. During the above incubation, prepare your digestion mixture:
-    1. Reconstitute urea powder with an appropriate amount of 100mM TrisCl pH 7.5. Vortex mix. NOTE - urea will increase the volume of the solution generally by the amount of powder you have weighed out. For example, to 240mg of urea, I would add 760uL of 100mM TrisCl pH 7.5 to make 1mL of solution.
-    2. Reconstitute a 20ug trypsin/rLysC vial using 100uL of the provided reconstitution solution.
-    3. Transfer 2uL of trypsin per sample to a fresh tube, and add 100uL of prepared urea per sample. Vortex mix and keep on ice.
+   7. Add 100uL of TC solution (or enough to cover the gel pieces) and incubate for 30-minutes at room temperature (+21C).
+   8. Remove and discard any excess liquid and add 500uL of acetonitrile. Mix by vortexing.
+   9. Incubate until the gel pieces are completely white.
+   10. Discard the acetonitrile and add 200uL of 100mM ammonium bicarbonate and mix until the gel pieces are clear and hydrated again.
+   11. Discard the excess ammonium bicarbonate solution from the tubes and add 500uL of acetonitrile and mix until the gel pieces are completely white.
+   12. During the above incubation, prepare your trypsin mixture:
+      1. Reconstitute urea powder with an appropriate amount of Digestion solution. Vortex mix. NOTE - urea will increase the volume of the solution generally by the amount of powder you have weighed out. For example, to 120mg of urea, I would add 880uL of Digestion solution to make 1mL of solution.
+      2. Reconstitute a 20ug trypsin/rLysC vial using 100uL of 50mM acetic acid.
+      3. Transfer 1uL of trypsin per sample to a fresh tube, and add 100uL of prepared urea in Digestion solution per sample. Vortex mix and keep on ice.
    13. Discard the excess acetonitrile.
-   14. Add 100uL of the digestion solution to the tubes (or enough to cover the gel pieces) and incubate for 2-hours at +30C in a Thermomixer with shaking at 800rpm.
-   15. Add 300uL of 100mM TrisCl pH 7.5 to the gel pieces and incubate overnight at +30C in a Thermomixer with mixing at 800rpm.
+   14. Add 100uL of the trypsin mixture to the tubes (or enough to cover the gel pieces) and incubate for 2-hours at +30C in a Thermomixer with shaking at 800rpm.
+   15. Add 300uL of Digestion solution (no urea) to the gel pieces and incubate overnight at +30C in a Thermomixer with mixing at 800rpm.
 3. To extract the generated peptides from the gel pieces:
    1. Spin digest tubes for 1-minute at 10,000g and transfer the supernatant liquid to a fresh labeled 1.5mL tube for each sample.
-   2. Add 100uL of 5% formic acid to the tubes and sonicate in a water bath for 10-minutes.
+   2. Add 100uL of 1% formic acid to the tubes and sonicate in a water bath for 5-minutes.
    3. Spin the tubes for 1-minute at 10,000g and transfer the liquid to the 1.5mL tubes from Step 3.1.
-   4. Repeat the previous two steps one addition time for a total of 2 extractions with 5% formic acid.
-   5. Add 200uL of acetonitrile to the tubes and sonicate in a water bath for 10-minutes.
+   4. Repeat the previous two steps one addition time for a total of 2 extractions with 1% formic acid.
+   5. Add 200uL of acetonitrile to the tubes and sonicate in a water bath for 5-minutes.
    6. Spin the tubes for 1-minute at 10,000g and transfer the liquid to the tubes containing the other material for the sample.
    7. Concentrate the peptide sample by evaporation. You can use a SpeedVac or a Lyophilizer for this purpose. The evaporated samples can be stored at -80C indefinitely.
-4. To desalt samples prior to mass spectrometry analysis:
-    1. Reconstitute your dried sample by adding 200uL of Buffer B, vortexing, and then centrifuging for 2-minutes at 12,000g.
-    2. Add 200uL of Buffer A to the SPE plate wells and centrifuge at 250g for 3-minutes. Empty the collection plate to the waste.
-    3. Add 200uL of Buffer B to the SPE plate wells and centrifuge at 250g for 3-minutes. Empty the collection plate to the waste.
-    4. Add 200uL of the peptide samples to the SPE plate wells and centrifuge at 250g for 3-minutes. Empty the collection plate to the waste.
-    5. Repeat Step 3 to load the remainder of the sample.
-    6. Add 200uL of Rinse buffer to the SPE plate wells and centrifuge at 250g for 3-minutes. Empty the collection plate to the waste.
-    7. Add 200uL of Elution buffer to the SPE plate wells and centrifuge at 250g for 3-minutes.
-    8. Transfer the elution from the collection plate to fresh 1.5mL tubes for each sample.
-    9. Concentrate the peptide sample by evaporation. You can use a SpeedVac or a Lyophilizer for this purpose.
-    10. After the sample is evaporated, add 20uL of Sample Reconstitution Solution to the tube, vortex, and then spin at 12,000g for 2-minutes.
-    11. Transfer 10uL of the reconstituted peptides to a 96-well plate with a silicone mat lid. Freeze the remainder of the peptide material at -80C.
-    12. Samples for MS analysis in the 96-well plate can be stored at this stage at -20C until analysis.
+4. The resulting samples should be desalted using SPE prior to analysis on the MS.

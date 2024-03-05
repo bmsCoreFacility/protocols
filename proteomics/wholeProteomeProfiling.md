@@ -38,6 +38,8 @@ For all the solutions described below and throughout this protocol in general, y
 - Benzonase nuclease, 25U/uL (Sigma, CAT#70664-3)
 - RNase A, 10mg/mL (Thermo Scientific, CAT#EN0531)
 - Ammonium bicarbonate (Sigma, CAT#A6141-500G)
+- Calcium chloride (Sigma, CAT#C4901)
+- Acetic acid (Sigma, CAT#A6283)
 - Urea (Sigma, CAT#U5128)
 - Clean water (Thermo Scientific, CAT#10977023)
 - Trypsin/rLysC mix (Promega, CAT#V5071)
@@ -82,13 +84,18 @@ For all the solutions described below and throughout this protocol in general, y
 - Lysis buffer B (need 50uL per sample, recipe for 1mL)
   - 600mM TrisCl pH 7.5 (600uL of 100mM stock)
   - 8% (v/v) SDS (400uL of 20% stock)
-- TC solution (need 40uL per sample, recipe for 500uL)
-  - 6.2mg TCEP
-  - 9.3mg of CAA
-  - water to 500uL
+- TC solution (need 40uL per sample, recipe for 1000uL)
+  - 12.4mg TCEP
+  - 18.6mg of CAA
+  - water to 1000uL
 - Ammonium bicarbonate solution (need 400uL per sample, recipe for 5mL)
   - 395mg ammonium bicarbonate
   - water to 5mL
+- 50mM acetic acid - 28.7uL of 17.4M acetic acid in 9.97mL of water
+- 1M calcium chloride - 1.1g in 10mL of water
+- Digestion solution
+  - 10uL of 1M calcium chloride solution
+  - 990uL of 100mM ammonium bicarbonate
 - 80% (v/v) ethanol (prepare fresh)
 - Buffer A - methanol
 - Buffer B - 0.1% trifluoroacetic acid (TFA) in water

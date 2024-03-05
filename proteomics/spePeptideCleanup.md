@@ -46,7 +46,7 @@ For all the solutions described below and throughout this protocol in general, y
 - Buffer B - 0.1% trifluoroacetic acid (TFA) in water
 - Rinse buffer - 0.1% formic acid, 4% methanol, in water
 - Elution buffer - 0.1% formic acid in 60% methanol
-- Sample Reconstitution Solution - 1% formic acid in water
+- Sample Reconstitution Solution - 1% (v/v) DMSO, 1% (v/v) formic acid in water
 
 <span id="13-protocol"></span>
 
