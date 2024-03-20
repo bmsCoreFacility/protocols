@@ -91,14 +91,14 @@ If you are using an SPE tube (e.g. 1mL tube with 50mg of material), 800uL of vol
 
 If you are using a centrifuge for your StageTips, you may need to adjust your speeds to get a reasonable flow rate. The most important thing is that you don't want your bead bed to dry out prior to sample loading, especially with StageTips. Try to keep some volume above the top of the bead bed. If you are using a StageTip, each plug will generally bind 2-4ug of peptide, so scale accordingly. The more plugs you have, the slower your flow rate will be, so you may need to alter your spin times. 
 
-1. Clean up your sample using a StageTip (2 layers in a 200uL pipette tip):
-    1. Add 100uL of Buffer A to the StageTip and elute using a centrifuge at 600g for 3.5-minutes.
-    2. Add 100uL of Buffer B to the StageTip and elute as above.
-    3. Add up to 200uL of the peptide samples to the StageTip and elute using a centrifuge at 600g for 7-minutes. 
+1. Clean up your sample using a StageTip (3 layers in a 200uL pipette tip):
+    1. Add 120uL of Buffer A to the StageTip and elute using a centrifuge at 600g for 3.5-minutes.
+    2. Add 120uL of Buffer B to the StageTip and elute as above.
+    3. Add 100uL of the peptide samples to the StageTip and elute using a centrifuge at 600g for 3.5-minutes. 
     4. Repeat Step 3 to load the remainder of the sample, if necessary.
-    5. Add 200uL of Rinse buffer to the StageTip and elute using a centrifuge at 600g for 7-minutes.
+    5. Add 200uL of Rinse buffer to the StageTip and elute using a centrifuge at 600g for 6-minutes.
     6. Add 150uL of Elution buffer to the StageTip and elute into a fresh 1.5mL collection tube (600g for 15-minutes).
 2. Concentrate the peptide sample by evaporation. You can use a SpeedVac or a Lyophilizer for this purpose.
-3. After the sample is evaporated, add 20uL of Sample Reconstitution Solution to the tube, vortex, and then spin at 12,000g for 2-minutes.
+3. After the sample is evaporated, add 20uL of Sample Reconstitution Solution to the tube and sonicate in a bath sonicator for 5-minutes. Vortex, and then spin at 12,000g for 2-minutes.
 4. Transfer 10uL of the reconstituted peptides to a 96-well plate with a silicone mat lid. Freeze the remainder of the peptide material at -80C.
 5. Samples for MS analysis in the 96-well plate can be stored at this stage at -20C until analysis.
