@@ -80,9 +80,9 @@ For all the solutions described below and throughout this protocol in general, y
 - 50mM acetic acid - 28.7uL of 17.4M acetic acid in 9.97mL of water
 - 1M calcium chloride - 1.1g in 10mL of water
 - Digestion solution (need 200uL per sample)
-  - 10uL of 1M calcium chloride solution
-  - 10uL of 1M TrisCl pH 7.5
-  - 980uL of water
+  - 2uL of 1M calcium chloride solution
+  - 20uL of 1M TrisCl pH 7.5
+  - 178uL of water
 - 80% (v/v) ethanol (prepare fresh)
 
 <span id="13-protocol"></span>
