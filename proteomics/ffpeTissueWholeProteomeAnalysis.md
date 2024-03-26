@@ -73,7 +73,7 @@ For all the solutions described below and throughout this protocol in general, y
 - Lysis buffer B (need 50uL per sample, recipe for 1mL)
   - 600mM TrisCl pH 7.5 (600uL of 100mM stock)
   - 8% (v/v) SDS (400uL of 20% stock)
-- TC solution (need 40uL per sample, recipe for 1000uL)
+- TC solution (need 10uL per sample, recipe for 1000uL)
   - 24.8mg TCEP
   - 37.2mg of CAA
   - water to 1000uL
@@ -91,7 +91,7 @@ For all the solutions described below and throughout this protocol in general, y
 
 This protocol assumes you have your tissue as scrolls in a tube. This protocol is compatible with processing 1 or a greater number of scrolls. I have provided a protocol that uses the FastPrep machine for tissue disruption and I highly recommend this. It helps break down the tissue and supports greater access to the tissue for de-paraffinization and clean-up. We have observed that the losses of tissue are negligible with this approach.
 
-Prior to starting, prepare sufficient Lysis buffer A and B for all of the samples to be processed. Make sure you have a Thermomixer heated to +95C or greater. Weigh out the CAA and Urea powders into tubes, but don't reconstitute until just before you will use them.  
+Prior to starting, prepare sufficient Lysis buffer A and B for all of the samples to be processed. Make sure you have a Thermomixer heated to +95C or greater.  
 
 1. If you are using the FastPrep, start here. If not, jump to Step 2.
     1. Transfer your tissue scrolls to a Lysing matrix D tube.
@@ -114,7 +114,7 @@ Prior to starting, prepare sufficient Lysis buffer A and B for all of the sample
 5. After incubation, add 50uL of Lysis buffer B to the tissue lysate and pipette mix. 
 6. Place the tissue mixture in the pre-heated Thermomixer at +95C (with the heated lid, if possible) and incubate for 60-minutes with shaking at 1,000rpm.
 7. Remove the protein lysate from the Thermoblock and quick-spin the tubes at low speed to remove any condensation from the lid (e.g. 250g for 30 seconds).
-8. Add 20uL of TC solution. Vortex mix and leave at room temperature for 30-minutes.
+8. Add 10uL of TC solution. Vortex mix and leave at room temperature for 30-minutes.
 9. At this point, the protein lysate is compatible with Western blotting. I will usually add 6uL of 6X SDS Loading Buffer to 24uL of my sample, and run 20-30uL on a gel. 
 10. This is a good stop point. You should measure the protein concentration in your sample using a BCA assay at this point. The samples here can be stored at -80C indefinitely, or directly used for other protocols such as Western blotting, as mentioned above.
 11. To perform clean-up prior to digestion, prepare the SP3 beads stock (if you don't have an existing stock, otherwise skip to Step 14):
@@ -132,7 +132,7 @@ Prior to starting, prepare sufficient Lysis buffer A and B for all of the sample
 15. Centrifuge the protein lysate tubes at 5,000g for 5-minutes at room temperature.
 16. Discard the supernatant from each tube and add 800uL of 80% ethanol. Pipette mix to reconstitute the beads.
 17. Centrifuge the tubes at 5,000g for 5-minutes and discard the supernatant. Using a P200 or P20 micropipette, make sure you have removed as much leftover liquid from the rinse as possible from the tubes.
-18. Add 200uL of the prepared trypsin/urea mix to each tube. Do not attempt to mix, vortex, or pipette.
+18. Add 200uL of the prepared trypsin mix to each tube. Do not attempt to mix, vortex, or pipette.
 19. Transfer the tubes to a shaking Thermomixer set at +37C and 1,000rpm, and digest for 14-18 hours.
 20. The next day, spin the tubes at 12,000g for 2-minutes and then place on a magnetic rack. Recover the supernatant to a fresh 1.5mL tube.
 21. At this point, you can clean-up your sample prior to MS analysis. See other protocols on this page for direction on that process.

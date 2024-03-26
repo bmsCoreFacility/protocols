@@ -72,7 +72,7 @@ For all the solutions described below and throughout this protocol in general, y
 - Lysis buffer B (need 50uL per sample, recipe for 1mL)
   - 600mM TrisCl pH 7.5 (600uL of 100mM stock)
   - 8% (v/v) SDS (400uL of 20% stock)
-- TC solution (need 40uL per sample, recipe for 1000uL)
+- TC solution (need 10uL per sample, recipe for 1000uL)
   - 24.8mg TCEP
   - 37.2mg of CAA
   - water to 1000uL
@@ -92,7 +92,7 @@ This protocol assumes you have your cells growing in conventional 6-well dishes.
 
 If you want a more concentrated cell lysate, use 75uL of Lysis Buffer A in the first step and 25uL of Lysis buffer B later on. Scale as is appropriate based on your cell culture dish size or harvested pellet size.
 
-Prior to starting, prepare sufficient Lysis buffer A and B for all of the samples to be processed. Make sure you have a Thermoblock heated to +60C or greater. Weigh out the CAA and Urea powders into tubes, but don't reconstitute until just before you will use them. Prepare 1 tube for each sample to be processed (protein - 2mL tube).
+Prior to starting, prepare sufficient Lysis buffer A and B for all of the samples to be processed. Make sure you have a Thermoblock heated to +60C or greater. Prepare 1 tube for each sample to be processed (protein - 2mL tube).
 
 1. Using a pipette, remove the culture medium from the growing cells on the 6-well plate.
 2. Add 2mL of DPBS to each well and swirl the plate to rinse. Pipette up and discard the DPBS (or aspirate).
@@ -102,7 +102,7 @@ Prior to starting, prepare sufficient Lysis buffer A and B for all of the sample
 7. After incubation, add 50uL of Lysis buffer B to the protein lysate and pipette mix. 
 8. Place the protein lysate in the pre-heated Thermoblock at +60C and incubate for 5-minutes.
 9. Remove the protein lysate from the Thermoblock and quick-spin the tubes at low speed to remove any condensation from the lid (e.g. 250g for 30 seconds).
-10. Add 20uL of TC solution. Vortex mix and leave at room temperature for 30-minutes.
+10. Add 10uL of TC solution. Vortex mix and leave at room temperature for 30-minutes.
 11. At this point, the protein lysate is compatible with Western blotting. I will usually add 6uL of 6X SDS Loading Buffer to 24uL of my sample, and run 20-30uL on a gel. 
 12. This is a good stop point. You should measure the protein concentration in your sample using a BCA assay at this point. The samples here can be stored at -80C indefinitely, or directly used for other protocols such as Western blotting, as mentioned above.
 13. To perform clean-up prior to digestion, prepare the SP3 beads stock (if you don't have an existing stock, otherwise skip to Step 14):
@@ -120,7 +120,7 @@ Prior to starting, prepare sufficient Lysis buffer A and B for all of the sample
 17. Centrifuge the protein lysate tubes at 5,000g for 5-minutes at room temperature.
 18. Discard the supernatant from each tube and add 800uL of 80% ethanol. Pipette mix to reconstitute the beads.
 19. Centrifuge the tubes at 5,000g for 5-minutes and discard the supernatant. Using a P200 or P20 micropipette, make sure you have removed as much leftover liquid from the rinse as possible from the tubes.
-20. Add 200uL of the prepared trypsin/urea mix to each tube. Do not attempt to mix, vortex, or pipette.
+20. Add 200uL of the prepared trypsin mix to each tube. Do not attempt to mix, vortex, or pipette.
 21. Transfer the tubes to a shaking Thermomixer set at +37C and 1,000rpm, and digest for 14-18 hours.
 22. The next day, spin the tubes at 12,000g for 2-minutes and then place on a magnetic rack. Recover the supernatant to a fresh 1.5mL tube.
 23. At this point, you can clean-up your sample prior to MS analysis. See other protocols on this page for direction on that process.

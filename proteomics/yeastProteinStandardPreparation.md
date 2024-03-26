@@ -86,7 +86,7 @@ For all the solutions described below and throughout this protocol in general, y
 10. Centrifuge the protein lysate tubes at 5,000g for 5-minutes at room temperature.
 11. Discard the supernatant from each tube and add 800uL of 80% ethanol. Pipette mix to reconstitute the beads.
 12. Centrifuge the tubes at 5,000g for 5-minutes and discard the supernatant. Using a P200 or P20 micropipette, make sure you have removed as much leftover liquid from the rinse as possible from the tubes.
-13. Add 200uL of the prepared trypsin/urea mix to each tube. Do not attempt to mix, vortex, or pipette.
+13. Add 200uL of the prepared trypsin mix to each tube. Do not attempt to mix, vortex, or pipette.
 14. Transfer the tubes to a shaking Thermomixer set at +37C and 1,000rpm, and digest for 14-18 hours.
 15. The next day, spin the tubes at 12,000g for 2-minutes and then place on a magnetic rack. Recover the supernatant to a fresh 1.5mL tube.
 16. SpeedVac the tubes to near dryness and reconstitute or bring each up to a final volume of 50uL using water and combine the two tubes to a final 100uL (this should be approximatey 1ug/uL based on the starting amount of 100ug). 

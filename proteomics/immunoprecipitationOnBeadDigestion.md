@@ -25,8 +25,9 @@ For all the solutions described below and throughout this protocol in general, y
 
 - 1.5mL or 2.0mL Safe-Lock tubes (Thermo Scientific, CAT#05-402-25 or CAT#05-402-7)
 - Benchtop centrifuge with holder for microcentrifuge tubes (multiple vendors)
-- Ammonium bicarbonate (Sigma, CAT#A6141-500G)
-- Urea (Sigma, CAT#U5128)
+- 1M TrisCl pH 7.5 (Thermo Scientific, CAT#J60636.K2)
+- Calcium chloride (Sigma, CAT#C4901)
+- Acetic acid (Sigma, CAT#A6283)
 - Clean water (Thermo Scientific, CAT#10977023)
 - Trypsin/rLysC mix (Promega, CAT#V5071)
 - Trifluoroacetic acid, HPLC grade (CAT#85183, Thermo Scientific)
@@ -36,24 +37,30 @@ For all the solutions described below and throughout this protocol in general, y
 
 ### 1.2 Solution recipes
 
-- 2M urea (120mg for every 100uL of 100mM TrisCl pH 7.5, prepare just before use)
-- Ammonium bicarbonate solution (need 400uL per sample, recipe for 5mL)
-  - 395mg ammonium bicarbonate
-  - water to 5mL
+- 100mM TrisCl pH 7.5 - 10uL of 1M stock for every 90uL of water (stock, stable at room temperature indefinitely)
+- 50mM acetic acid - 28.7uL of 17.4M acetic acid in 9.97mL of water
+- 1M calcium chloride - 1.1g in 10mL of water
+- Digestion solution (need 200uL per sample)
+  - 2uL of 1M calcium chloride solution
+  - 20uL of 1M TrisCl pH 7.5
+  - 178uL of water
 - Acidification solution - 10% trifluoroacetic acid (TFA) in water
+
 <span id="13-protocol"></span>
 
 ### 1.3 Protocol
 
-This protocol assumes you have already performed your immunoprecipitation (or other on-bead purification) and are prepared for digestion. If you have been rinsing with detergent-based solutions, you should perform at least 3 rinses with a solution like 1M ammonium bicarbonate to remove any residual detergent that may negatively impact digestion.
+This protocol assumes you have already performed your immunoprecipitation (or other on-bead purification) and are prepared for digestion. 
 
-1. Reconstitute urea powder with an appropriate amount of 1M ammonium bicarbonate solution. Vortex mix. NOTE - urea will increase the volume of the solution generally by the amount of powder you have weighed out. For example, to 120mg of urea, I would add 880uL of 1M ammonium bicarbonate solution to make 1mL of solution.
-2. Reconstitute a 20ug trypsin/rLysC vial using 100uL of the vendor-provided reconstitution solution.
-3. Transfer 2uL of trypsin per sample to a fresh tube, and add 100uL of prepared urea per sample. Vortex mix and keep on ice.
-4. Centrifuge the sample tubes at 1,000g for 5-minutes at room temperature. Discard the supernatant.
-5. Add 100uL of the prepared trypsin/urea mix to each tube. Do not attempt to mix, vortex, or pipette.
-6. Transfer the tubes to a shaking Thermomixer set at +30C and 1,000rpm, and digest for 2-4 hours.
-7. Add 300uL of 1M ammonium bicarbonate solution to each tube and place back in the Thermomixer and incubate overnight at +30C and 1,000rpm mixing.
-8. The next day, spin the tubes at 1,000g for 5-minutes and recover the supernatant to a fresh 1.5mL tube.
-9. Acidify the digests by adding 40uL of 10% (v/v) TFA to each.
-10. At this point, the samples can be stored in the -20C freezer indefinitely, or desalted prior to MS analysis.
+1. If you have been rinsing with detergent-based solutions, you should perform at least 3 rinses with 100mM TrisCl pH 7.5 (800uL per rinse) to remove any residual detergent that may negatively impact digestion.
+  1. If your beads are not magnetic, add 800uL of 100mM TrisCl pH 7.5 and pipette to suspend and mix the beads.
+  2. Centrifuge for 1-minute at 500g. Discard the supernatant. 
+  3. Repeat Steps 1 & 2 an additional two times for a total of 3 rinses. 
+  4. If your beads are magnetic, you can skip the centrifugation and just use a magnetic rack.
+2. Prepare your trypsin mixture:
+      1. Reconstitute a 20ug trypsin/rLysC vial using 100uL of the provided reconstitution solution (or the same volume of 50mM acetic acid).
+      2. Transfer 1uL of trypsin per sample to a fresh tube, and add 200uL of Digestion solution per sample. Vortex mix and keep on ice.
+3. Add 200uL of the trypsin mixture to the tubes and incubate overnight at +37C in a Thermomixer with shaking at 800rpm.
+4. The next day, spin the tubes at 1,000g for 5-minutes and recover the supernatant to a fresh 1.5mL tube.
+5. Acidify the digests by adding 2uL of 10% (v/v) TFA to each.
+6. At this point, the samples can be stored in the -20C freezer indefinitely, or desalted prior to MS analysis.
