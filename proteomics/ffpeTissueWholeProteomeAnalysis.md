@@ -114,9 +114,9 @@ Prior to starting, prepare sufficient Lysis buffer for all of the samples to be 
     6. Reconstitute the beads in 500uL of water. This is your bead stock (100ug/uL) and it can be stored at +4C indefinitely.
  12. To a fresh 2mL tube for each sample, add 1uL of SP3 bead stock, 1uL of 100 fmol/uL RePLiCal protein stock, 50ug of your lysate, and water to 40uL of total volume. Mix by gentle shaking. The remaining lysate can be stored at -80C for validation assays (e.g. Western blotting), or as a backup sample if your protein digestion fails.
  13. Add 160uL of acetone to each tube of protein lysate and gently shake the tube to mix. Incubate at +37C for 5-minutes with shaking at 800rpm.
- 14. During the above incubation, prepare your digestion mixture:
-    1. Reconstitute a 100ug trypsinusing 100uL of 50mM acetic acid.
-    2. Transfer 1uL of trypsin per sample to a fresh tube, and add 100uL of Digestion solution per sample. Vortex mix and keep on ice.
+ 14. During the above incubation, prepare your digestion mixture.
+     1.  Reconstitute a 100ug trypsin using 100uL of 50mM acetic acid.
+     2.  Transfer 1uL of trypsin per sample to a fresh tube, and add 100uL of Digestion solution per sample. Vortex mix and keep on ice.
  15. Centrifuge the protein lysate tubes at 5,000g for 5-minutes at room temperature.
  16. Discard the supernatant from each tube and add 800uL of 80% ethanol. Pipette mix to reconstitute the beads.
  17. Centrifuge the tubes at 5,000g for 5-minutes and discard the supernatant. Using a P200 or P20 micropipette, make sure you have removed as much leftover liquid from the rinse as possible from the tubes.
