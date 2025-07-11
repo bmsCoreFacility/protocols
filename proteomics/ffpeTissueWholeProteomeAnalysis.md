@@ -63,7 +63,7 @@ For all the solutions described below and throughout this protocol in general, y
   - 200mM TrisCl pH 7.5 (200uL of 1M stock solution)
   - 5% (v/v) SDS (250uL of 20% stock)
   - 5% (v/v) sodium deoxycholate (250uL of 20% stock)
-  - 200uL of water
+  - 300uL of water
 - 100fmol/uL RePLiCal protein mix (reconstitute stock in 255uL and store as 10uL aliquots)
 - Dithiothreitol solution (need 10uL per sample, recipe for 1000uL)
   - 15mg dithiothreitol
