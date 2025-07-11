@@ -59,12 +59,10 @@ For all the solutions described below and throughout this protocol in general, y
 ### 1.2 Solution recipes
 
 - 20% (w/v) sodium deoxycholate - 2g in 10mL of water (stable at room temperature indefinitely)
-- 1M glycine - 75mg in 1mL of water (stable at room temperature indefinitely)
 - Lysis buffer (recipe for 1mL)
   - 200mM TrisCl pH 7.5 (200uL of 1M stock solution)
   - 5% (v/v) SDS (250uL of 20% stock)
   - 5% (v/v) sodium deoxycholate (250uL of 20% stock)
-  - 100mM glycine (100uL of 1M stock)
   - 200uL of water
 - 100fmol/uL RePLiCal protein mix (reconstitute stock in 255uL and store as 10uL aliquots)
 - Dithiothreitol solution (need 10uL per sample, recipe for 1000uL)
@@ -94,7 +92,7 @@ For all the solutions described below and throughout this protocol in general, y
 
 This protocol assumes your samples are tissue scrolls in the Covaris tubes. Prior to starting, prepare sufficient Lysis buffer for all of the samples to be processed. Prepare 1 tube for each sample to be processed (1.5mL tube). Set a Thermomixer block to +95C. 
 
-1. Add 100uL of Lysis solution to the tissue piece in the Covaris tube. Make sure all of the tissue is in the liquid before putting the lid back on.
+1. Add 120uL of Lysis solution to the tissue piece in the Covaris tube. Make sure all of the tissue is in the liquid before putting the lid back on.
 2. Sonciate in the Covaris M220 unit using the built-in deparaffinization protocol for FFPE tissues. 
 3. Transfer the lysate to a PCR tube and incubate in a PCR Thermocycler for 1.5h at +95C with the heated lid set to +105C.
 4.  Measure the protein concentration of 5uL of the lysate using the BCA assay. 
