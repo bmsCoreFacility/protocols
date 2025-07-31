@@ -94,7 +94,7 @@ This protocol assumes your samples are tissue scrolls in the Covaris tubes. Prio
 
 1. Using a pipette tip, push the tissue piece into the covaris tube, ideally folding it in half.
 2. Place the tube with tissue into a Thermoblock set to +65C and let incubate for 5-minutes.
-3. Add 120uL of Lysis solution to the tissue piece in the Covaris tube.
+3. Add 100uL of Lysis solution to the tissue piece in the Covaris tube.
 4. Sonciate in the Covaris M220 unit using the built-in deparaffinization protocol for FFPE tissues ('FFPE_Paraffin_Removal_Step').
    1. Peak Power = 75
    2. Duty Factor =  20
