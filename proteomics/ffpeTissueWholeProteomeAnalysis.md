@@ -59,13 +59,11 @@ For all the solutions described below and throughout this protocol in general, y
 ### 1.2 Solution recipes
 
 - 20% (w/v) sodium deoxycholate - 2g in 10mL of water (stable at room temperature indefinitely)
-- 1M glycine - 75mg in 1mL of water (stable at room temperature indefinitely)
 - Lysis buffer (recipe for 1mL)
   - 200mM TrisCl pH 7.5 (200uL of 1M stock solution)
   - 5% (v/v) SDS (250uL of 20% stock)
   - 5% (v/v) sodium deoxycholate (250uL of 20% stock)
-  - 100mM glycine (100uL of 1M stock)
-  - 200uL of water
+  - 300uL of water
 - 100fmol/uL RePLiCal protein mix (reconstitute stock in 255uL and store as 10uL aliquots)
 - Dithiothreitol solution (need 10uL per sample, recipe for 1000uL)
   - 15mg dithiothreitol
@@ -96,7 +94,7 @@ This protocol assumes your samples are tissue scrolls in the Covaris tubes. Prio
 
 1. Using a pipette tip, push the tissue piece into the covaris tube, ideally folding it in half.
 2. Place the tube with tissue into a Thermoblock set to +65C and let incubate for 5-minutes.
-3. Add 100uL of Lysis solution to the tissue piece in the Covaris tube.
+3. Add 120uL of Lysis solution to the tissue piece in the Covaris tube.
 4. Sonciate in the Covaris M220 unit using the built-in deparaffinization protocol for FFPE tissues ('FFPE_Paraffin_Removal_Step').
    1. Peak Power = 75
    2. Duty Factor =  20
