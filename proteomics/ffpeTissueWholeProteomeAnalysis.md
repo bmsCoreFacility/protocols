@@ -144,7 +144,7 @@ This protocol assumes your samples are tissue scrolls in 1.5mL tubes. Prior to s
  26. Spin the digest tubes at 12,000g for 2-minutes, place on a magnetic rack, and transfer the digest to the new tubes with trifluoroacetic acid.
  27. To the tubes with the beads on the magnetic rack, add 40uL of 8M urea and sonicate in a bath sonicator for 5-minutes. 
  28. Spin the digest tubes at 12,000g for 2-minutes, place on a magnetic rack, and transfer the urea elution to the new tubes with trifluoroacetic acid.
- 29. This sample can now be desalted using a variety of approaches, but I recommend using an HPLC setup.
+ 29. This sample can now be desalted using a variety of approaches, but we recommend using an HPLC setup when possible.
      1.  Equilibrate HPLC column at a flow rate of 0.3mL/min of 2% mobile phase B (acetonitrile). Mobile phase A is 0.1% formic acid in water.
      2.  Zero out your DAD detector (we use the 254nm wavelength for detection).
      3.  Inject your sample and rinse for 3-minutes at 2% mobile phase B.
