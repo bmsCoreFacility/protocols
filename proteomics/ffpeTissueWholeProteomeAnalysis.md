@@ -73,6 +73,13 @@ For all the solutions described below and throughout this protocol in general, y
   - 36mg iodoacetamide
   - 36mg chloroacetamide
   - water to 1000uL
+- Enolase standard
+  - reconstitute 9.3mg of powder in 900uL of Lysis solution
+  - add 10uL of Dithiothreitol solution and incubate at +65C for 15-minutes
+  - add 10uL of Alkylation solution and incubate at room temperature for 15-minutes
+  - add 10uL of Dithiothreitol solution to quench the reaction
+  - aliquot and store as a 10mg/mL stock solution (-20C storage)
+  - dilute to 20ng/uL in water as a working solution
 - SP3 binding solution (need 200uL per 100uL of sample, recipe for 10mL)
   - 6mL acetonitrile
   - 2mL methanol
@@ -121,7 +128,7 @@ This protocol assumes your samples are tissue scrolls in 1.5mL tubes. Prior to s
     4. Reconstitute the beads in 1mL of water with pipetting and place back on the magnetic rack. After the beads settle, discard the supernatant.
     5. Repeat the above rinse one additional time for a total of 2 rinses.
     6. Reconstitute the beads in 500uL of water. This is your bead stock (100ug/uL) and it can be stored at +4C indefinitely.
- 15. To a fresh 2mL tube for each sample, add 5uL of SP3 bead stock, 50ug of your lysate, and water to 100uL of total volume. Mix by gentle shaking. The remaining lysate can be stored at -80C for validation assays (e.g. Western blotting), or as a backup sample if your protein digestion fails.
+ 15. To a fresh 2mL tube for each sample, add 5uL of SP3 bead stock, 5uL of 20ng/uL Enolase standard, 50ug of your lysate, and water to 100uL of total volume. Mix by gentle shaking. The remaining lysate can be stored at -80C for validation assays (e.g. Western blotting), or as a backup sample if your protein digestion fails.
  16. Add 200uL of SP3 binding solution to each tube of protein lysate and incubate at +37C for 5-minutes with shaking at 800rpm.
  17. During the above incubation, prepare your digestion mixture.
      1.  Reconstitute a 100ug trypsin using 100uL of 50mM acetic acid.
